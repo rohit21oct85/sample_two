@@ -5,4 +5,4 @@
  * Date: 10/18/2016
  * Time: 11:09 AM
  */
-echo "Hello Rohti";
+echo phpinfo();
